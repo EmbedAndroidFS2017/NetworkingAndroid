@@ -1,0 +1,7 @@
+#Sun May 07 19:02:14 CEST 2017
+base.0=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha7_c1ed390aff8f3a7d499cb5b02a4b6c69664972a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b7772269f9960ded08b1ddf0c2b3ba9829d8fd7c\\classes.dex
+base.1=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b7772269f9960ded08b1ddf0c2b3ba9829d8fd7c
+file.0=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha7_c1ed390aff8f3a7d499cb5b02a4b6c69664972a5\\classes.dex

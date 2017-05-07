@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sun May 07 19:10:11 CEST 2017
+1.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_networking_sockets.xml
+1.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_

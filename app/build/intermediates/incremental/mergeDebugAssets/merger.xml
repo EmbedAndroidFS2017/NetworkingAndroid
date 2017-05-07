@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\cheey\.android\build-cache\988bfc799d4f81a6e9490c1fa8714350e3797b7d\output\assets"/></dataSet><dataSet config="main"><source path="C:\projects\NetworkingAndroidHttpClient\app\src\main\assets"/><source path="C:\projects\NetworkingAndroidHttpClient\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\projects\NetworkingAndroidHttpClient\app\src\debug\assets"/></dataSet></merger>

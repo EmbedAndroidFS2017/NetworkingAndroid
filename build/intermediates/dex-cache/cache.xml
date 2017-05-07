@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\projects\NetworkingAndroidHttpClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a60ef45fe578a40ed037391ff77bfe281121164">
+        <dex dex="C:\projects\NetworkingAndroidHttpClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b492abae03eac737696a4557085a61eeb6a111a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\projects\NetworkingAndroidHttpClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\projects\NetworkingAndroidHttpClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f9ab09fa978f210a2c26cb632fdf38bf686f954\classes.dex" />
+    </item>
+
+</items>

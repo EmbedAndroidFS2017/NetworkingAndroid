@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun May 07 19:10:11 CEST 2017
+2.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_networking_sockets.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b492abae03eac737696a4557085a61eeb6a111a
+count=7
+0.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f9ab09fa978f210a2c26cb632fdf38bf686f954\\classes.dex
+5.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f9ab09fa978f210a2c26cb632fdf38bf686f954
+3.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\projects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b492abae03eac737696a4557085a61eeb6a111a\\classes.dex
+0.set=DEX
