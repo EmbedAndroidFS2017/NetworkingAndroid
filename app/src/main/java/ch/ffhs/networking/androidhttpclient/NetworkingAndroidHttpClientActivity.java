@@ -44,29 +44,20 @@ public class NetworkingAndroidHttpClientActivity extends Activity {
 		@Override
 		protected String doInBackground(Void... params) {
 
-			HttpGet request = new HttpGet(URL);
-			ResponseHandler<String> responseHandler = new BasicResponseHandler();
-
-			try {
-
-				return mClient.execute(request, responseHandler);
-
-			} catch (ClientProtocolException exception) {
-				exception.printStackTrace();
-			} catch (IOException exception) {
-				exception.printStackTrace();
-			}
+            // TODO:
+            /* HttpGet, ResponseHandler<String> erstellen.
+               mClient ausführen mit diesen zwei.
+             */
 			return null;
 		}
 
 		@Override
 		protected void onPostExecute(String result) {
-
-			if (null != mClient)
-				mClient.close();
-
-			mTextView.setText(result);
-
+            // TODO:
+            /*
+                mClient abschliessen.
+                Der Text der mTextView mit dem Resultat setzen.
+             */
 		}
 	}
 }

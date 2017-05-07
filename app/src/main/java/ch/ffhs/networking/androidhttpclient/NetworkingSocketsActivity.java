@@ -56,54 +56,32 @@ public class NetworkingSocketsActivity extends Activity {
             Socket socket = null;
             String data = "";
 
-            try {
-                socket = new Socket(HOST, 80);
-                PrintWriter pw = new PrintWriter(new OutputStreamWriter(
-                        socket.getOutputStream()), true);
-                pw.println(HTTP_GET_COMMAND);
-
-                data = readStream(socket.getInputStream());
-
-            } catch (UnknownHostException exception) {
-                exception.printStackTrace();
-            } catch (IOException exception) {
-                exception.printStackTrace();
-            } finally {
-                if (null != socket)
-                    try {
-                        socket.close();
-                    } catch (IOException e) {
-                        Log.e(TAG, "IOException");
-                    }
-            }
+            // TODO:
+            /* socket erstellen.
+               readStream aufrufen mit socket's input stream => data
+               socket richtig schliessen.
+             */
             return data;
         }
 
         @Override
         protected void onPostExecute(String result) {
-            mTextView.setText(result);
+            // TODO:
+            /*
+                mClient abschliessen.
+                Der Text der mTextView mit dem Resultat setzen.
+             */
         }
 
         private String readStream(InputStream in) {
             BufferedReader reader = null;
             StringBuffer data = new StringBuffer();
-            try {
-                reader = new BufferedReader(new InputStreamReader(in));
-                String line = "";
-                while ((line = reader.readLine()) != null) {
-                    data.append(line);
-                }
-            } catch (IOException e) {
-                Log.e(TAG, "IOException");
-            } finally {
-                if (reader != null) {
-                    try {
-                        reader.close();
-                    } catch (IOException e) {
-                        Log.e(TAG, "IOException");
-                    }
-                }
-            }
+
+            // TODO:
+            /*
+              Zeile durch Zeile auslesen und data erstellen.
+              Nachdem Lesen reader schliessen.
+             */
             return data.toString();
         }
     }
